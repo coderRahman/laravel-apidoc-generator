@@ -1,5 +1,5 @@
 {
-    "name": "VadikV/laravel-apidoc-generator",
+    "name": "vadikv/laravel-apidoc-generator",
     "license": "MIT",
     "description": "Generate beautiful API documentation from your Laravel application",
     "keywords": [
