@@ -26,7 +26,7 @@ trait ParamHelpers
                 return $faker->boolean();
             },
             'string' => function () use ($faker) {
-                return $faker->word;
+                return $faker->word();
             },
             'array' => function () {
                 return [];
